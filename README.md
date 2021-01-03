@@ -1,9 +1,11 @@
 ### ACLARACIONES
-- Esta guía **NO** pretende ser un de ninguna forma un plagio o suplanto a la **guía oficial de este package** (en https://www.npmjs.com/package/megadb), solamente tiene el fin de ser un "refuerzo" a la guía ORIGINAL del autor del package megadb ("MegaStar"), ya que hay personas las cuales no logran comprénder al 100%, evidentemente este "refuerzo" (Esta guía) ACTUALMENTE NO contiene TODOS los métodos de megadb de la **versión 3.0.0** (Es la versión más reciente de momento tiene 23 métodos en total). **Esta guía actualmente abarca solamente 19 métodos de los 23 totales**, ya que esto también se limita a mis conocimientos de los métodos que sé lo suficientemente bien para poder explícarselos de la mejor forma posible a ustedes de este paquete (package) y por otros motivos.
+Esta guía **NO** pretende ser un de ninguna forma un plagio o suplanto a la **guía oficial de este package** (en https://www.npmjs.com/package/megadb), solamente tiene el fin de ser un "refuerzo" a la guía ORIGINAL del autor del package megadb ("MegaStar"), ya que hay personas las cuales no logran comprénder al 100%, evidentemente este "refuerzo" (Esta guía) ACTUALMENTE NO contiene TODOS los métodos de megadb de la **versión 3.0.0** (Es la versión más reciente de momento tiene 23 métodos en total). **Esta guía actualmente abarca solamente 19 métodos de los 23 totales**, ya que esto también se limita a mis conocimientos de los métodos que sé lo suficientemente bien para poder explícarselos de la mejor forma posible a ustedes de este paquete (package) y por otros motivos.
 
 Si con el tiempo voy dominando más métodos, iré actualizando/añadiendo los nuevos que domine y se los explique acá. Tampoco esperes a que esta guía abarque TODO, todas las formas de establecer un dato, obtenerlo, de imprimirlo/visualizarlo, si, mostraré otras fomas en una que otra ocación, pero mi prioridad será mostrarle la más simple primero, así podrás enténderlo, si quieres aprénderlas todas u otras formas, podrás visitar su documentación oficial. 
 
 Si quieres saber cuales son los métodos los cuales explíco más a fondo acá, podrás ver un poco más abajo, si lo que buscas no se encuentra acá, pues siempre está la guía oficial. 
+
+Además, con el tiempo tal vez añadiré nuevos Ejemplos a la carpeta de "Ejemplos", también añadiré más ejemplos a los métodos si lo veo necesario
 
 Esta guía usa como lenguaje de programación "javascript"
 
@@ -143,5 +145,5 @@ convert_megadtbs - Este método es especial, si quieres saber que hace puedes ve
 
 ### LINKS ÚTILES
 
-- **Documentación y página OFICIAL de megadb** = https://www.npmjs.com/package/megadb
+- **Documentación OFICIAL de megadb** = https://www.npmjs.com/package/megadb
 - Documentación de discord.js = https://discord.js.org/#/docs/main/master/general/welcome
