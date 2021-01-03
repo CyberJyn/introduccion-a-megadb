@@ -25,11 +25,17 @@ Megadb puede ser utilizado en muchas cosas, como por ejemplo páginas web, proye
 Y si no tienes ningún conocimiento previo sobre este package, pues mucho mejor, ya que en este mismo orden de métodos voy explícandolo paso a más pasos utilizando palabras como "Como en el archivo "obtener" ", o cosas por el estilo o dejo de explicar de forma demasiado profunda algo, que sé que no esta bien ya que toda la información debe ser la misma, pero sin embargo esta sigue siendo la misma, solo que sin profundisar demasiado
 
 [1] crearDB (Carpeta : "crearDB - memoDB")
+
 [2] Método "establecer" (El resto de métodos es en la carpeta : "Guía de Métodos")
+
 [3] Método "tiene"
+
 [4] Método "obtener"
+
 [5] Método "sumar"
+
 [6] Método "restar"
+
 [7] Método "eliminar"
 
 Estos siete métodos, son los que en mi opinión deberías de aprénder primero, ya que estos son más generales, y que posiblemente uses más
@@ -57,7 +63,7 @@ Uso:
 <db>.datos()
 ```
 
-<db> : El nombre de la base de datos la cual quieras aplicar el método
+db : El nombre de la base de datos la cual quieras aplicar el método
 
 Y por ejemplo tu lo tedrías así :
 
@@ -119,28 +125,50 @@ Esta es la jerarquía (Ya entenderás porque la llamo así) :
 Recuerda : ¡Acá de momento sólo abarco 19 métodos de los 23 totales de megadb!
 
 establecer ✅
+
 size ✅
+
 obtener ✅
+
 tiene ✅
+
 eliminar ✅
+
 datos ✅
+
 push ✅
+
 extract ✅
+
 sumar ✅
+
 restar ✅
+
 keys ✅
+
 values ✅
+
 purgeall ✅
-ordenar - En algún momento terminaré este
+
+ordenar - En algún momento terminaré este.
+
 random ✅
-existeDB - Hubó un error por parte del Package cuando ejecuté pruebas con este método, por endé no puedo enseñarlo
+
+existeDB - Hubó un error por parte del Package cuando ejecuté pruebas con este método, por endé no puedo enseñarlo.
+
 find ✅
-filter - En algún momento terminaré este
+
+filter - En algún momento terminaré este.
+
 map ✅
+
 some ✅
+
 setIndex ✅
+
 delIndex ✅
-convert_megadtbs - Este método es especial, si quieres saber que hace puedes ver la documentación oficial de megadb. Demostración de lo que hace : https://youtu.be/rouyoy0SJN0 , ¿Qué por qué no me tomo la molestía de enseñarlo?, porque no me apetece, es así, sin más xD
+
+convert_megadtbs - Este método es especial, si quieres saber que hace puedes ver la documentación oficial de megadb. Demostración de lo que hace : https://youtu.be/rouyoy0SJN0 , ¿Qué por qué no me tomo la molestía de enseñarlo?, porque no me apetece, es así, sin más xD.
 
 
 ### LINKS ÚTILES
